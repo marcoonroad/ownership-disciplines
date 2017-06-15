@@ -18,18 +18,18 @@ of discipline. Thanks anyways. I promise to give you the due credit on the
 footnotes whenever you make a contribution for given ownership discipline.
 
 Owners-as-
-* Accessors
-* Collectors
-* Delegators
-* Discriminators
-* Dominators
-* Downgraders
-* Events
-* Modifiers
-* Mirrors
-* Prototypes
-* Revokers
-* Traders
-* Visitors
+* [Accessors](Owners-as-Accessors.md)
+* [Collectors](Owners-as-Collectors.md)
+* [Delegators](Owners-as-Delegators.md)
+* [Discriminators](Owners-as-Discriminators.md)
+* [Dominators](Owners-as-Dominators.md)
+* [Downgraders](Owners-as-Downgraders.md)
+* [Events](Owners-as-Events.md)
+* [Modifiers](Owners-as-Modifiers.md)
+* [Mirrors](Owners-as-Mirrors.md)
+* [Prototypes](Owners-as-Prototypes.md)
+* [Revokers](Owners-as-Revokers.md)
+* [Traders](Owners-as-Traders.md)
+* [Visitors](Owners-as-Visitors.md)
 
 END
