@@ -11,7 +11,7 @@ disciplines.
 
 __Note__: If you have an interesting general idea for some ownership policy and
 you want to give your 2 cents here through a Pull-Request, please, check
-beforehand if your own idea resembles some of ownership disciplines below. If
+beforehand if your own idea resembles some of the ownership disciplines below. If
 it indeed resembles one policy, please, improve the respective Markdown text
 for that. If not, I will be very grateful if you are willing to add a new kind
 of discipline. Thanks anyways. I promise to give you the due credit on the
