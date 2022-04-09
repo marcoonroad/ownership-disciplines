@@ -7,5 +7,3 @@ two parties, and thus, the owner must own both involved objects. The identity
 effect here becomes a confined capability, it also means that only the owner is
 able to store such owned object in either a set or a map indexed by hash, for
 instance.
-
-END

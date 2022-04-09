@@ -26,5 +26,3 @@ objects while clients acquire proxies for such target owned objects. Be aware
 that such thing relies on proper isolation of code, that is, pointers for such
 owned objects are _unforgeable_ outside the owner's scope, clients must request
 a proxy through some sort of factory API.
-
-END

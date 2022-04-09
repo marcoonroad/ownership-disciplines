@@ -9,5 +9,3 @@ When we try to use Design Patterns such as Iterator, Memento or Observer for
 this discipline, things become really hard. New Ownership Disciplines arise to 
 solve such problems through some trade-offs against this classical discipline, 
 frequently discarding some properties here or reshaping other ones there.
-
-END

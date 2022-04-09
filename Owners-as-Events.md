@@ -6,5 +6,3 @@ are changed. This kind of Ownership Discipline is just how some Typestate
 systems are made, for example, the Plaid programming language. The name
 "Events" is due the analogy of FSMs on type systems: Owners are those who have
 the capability to perform a state transition on type-level.
-
-END

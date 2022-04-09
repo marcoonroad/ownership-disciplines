@@ -7,5 +7,3 @@ specific subject, it must perform a new request for that owner to be able to
 access again the owned object. If the owner refuses the request, the subject
 will not be able anymore to access such owned object. Such revocation can be
 made through a kind of black-list.
-
-END

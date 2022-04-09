@@ -14,5 +14,3 @@ allocate memory in the system (besides making cloning a private operation, that
 is, an operation available only for the object itself). Cloning indirectly is
 also possible, the owner just need to expose a method performing cloning
 internally for its own owner (i.e, owner's owner).
-
-END

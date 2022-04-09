@@ -16,5 +16,3 @@ of the Data Type instance.
 ### References
 
 * [1] _On Owners-as-Accessors_ — by James Noble and Alex Potanin
-
-END

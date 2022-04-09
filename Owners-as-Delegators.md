@@ -14,5 +14,3 @@ the Object-Capability Model[1].
 ### References
 
 * [1] _Non-Delegatable Authorities in Capability Systems_ — by Toby Murray and Duncan Grove
-
-END

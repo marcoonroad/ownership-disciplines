@@ -15,5 +15,3 @@ the other hand, reflection is exclusive meaning that only one party can reflect
 over some object in one time (only if multiple ownership is not assumed here).
 Through owners-as-collectors or owners-as-modifiers, reflection is not
 exclusive per object when we instead take the mirrors-as-owned approach/policy.
-
-END

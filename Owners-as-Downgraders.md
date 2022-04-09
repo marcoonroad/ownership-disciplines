@@ -15,5 +15,3 @@ label).
 ### References
 
 * [1] _Ownership Downgrading for Ownership Types_ — Yi Lu, John Potter and Jingling Xue
-
-END

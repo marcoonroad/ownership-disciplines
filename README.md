@@ -31,5 +31,3 @@ Owners-as-
 * [Revokers](Owners-as-Revokers.md)
 * [Traders](Owners-as-Traders.md)
 * [Visitors](Owners-as-Visitors.md)
-
-END

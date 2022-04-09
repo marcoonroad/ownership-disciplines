@@ -21,5 +21,3 @@ concept catches very well the idea of resource allocation with a given net of
 players, surely it is useful in Game Theory. The implementation of such
 ownership policy can use two channels of communication, such channels will
 synchronize actors/threads until the exchange is performed or either cancelled.
-
-END
